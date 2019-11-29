@@ -7,6 +7,7 @@ class App extends Component {
       <div className="App">
         <div className="title">
           <h1> Welcome to Netlify !</h1>
+          <p>Deployed by JuAlexandre</p>
         </div>
       </div>
     );
